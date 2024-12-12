@@ -94,8 +94,11 @@ This Bookstore Management System is a web-based e-commerce platform designed to 
    ```bash
    cd bookstore-management-system
 
-3. Setup the database
+3. Setup the database:
    - Import the provided database schema in the Sql folder.
+
+4. XAMP:
+   - make sure to start the Apache ,and MYSQL Services
 ---
 
 ## License
