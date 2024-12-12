@@ -22,7 +22,7 @@ This Bookstore Management System is a web-based e-commerce platform designed to 
 ### Admins Side:
 - **Manage Books**: Admins can add, update, or delete books from the inventory.
 - **Manage Customers**: Admins can view and manage customer details.
-- **Manage Orders**: Admins can view all customer orders, search and filter orders, and update order statuses.
+- **Manage Orders**: Admins can view all customer orders, search and filter orders, update order statuses, and dowload a text that have all the orders .
 - **Manage Messages**: Admins can view and respond to customer messages submitted via the 'Contact Us' form.
 - **Database Management**: Admins can oversee the database, including schema and relations.
 
